@@ -1,5 +1,6 @@
 class Solution:
     def countArrangement(self, n: int) -> int:
+        def dfs(bm, pl):
             if pl == 0: return 1
                 
             S = 0
