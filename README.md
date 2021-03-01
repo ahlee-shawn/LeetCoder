@@ -11,6 +11,7 @@
 1379 - Find a Corresponding Node of a Binary Tree in a Clone of That Tree
 
 ### Hash Table
+575 - Distribute Candies
 961 - N-Repeated Element in Size 2N Array
 1640 - Check Array Formation Through Concatenation
 
