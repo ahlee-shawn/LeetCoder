@@ -3,6 +3,9 @@
 
 ## Problem List
 
+### Array
+[268 - Missing Number](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/268.py)<br/>
+
 ### Stack
 [856 - Score Of Parentheses](https://github.com/ahlee-shawn/LeetCoder/blob/master/Stack/856.py)<br/>
 [946 - Validate Stack Sequences](https://github.com/ahlee-shawn/LeetCoder/blob/master/Stack/946.py)<br/>
