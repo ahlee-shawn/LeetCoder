@@ -6,6 +6,7 @@
 ### Array
 [268 - Missing Number](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/268.py)<br/>
 [1200 - Minimum Absolute Difference](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/1200.py)<br/>
+[1672 - Richest Customer Wealth](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/1672.py)<br/>
 
 ### Stack
 [856 - Score Of Parentheses](https://github.com/ahlee-shawn/LeetCoder/blob/master/Stack/856.py)<br/>
