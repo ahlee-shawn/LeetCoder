@@ -5,6 +5,7 @@
 
 ### Array
 [268 - Missing Number](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/268.py)<br/>
+[905 - Sort Array By Parity](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/905.py)<br/>
 [1200 - Minimum Absolute Difference](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/1200.py)<br/>
 [1672 - Richest Customer Wealth](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/1672.py)<br/>
 
