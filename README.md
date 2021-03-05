@@ -34,6 +34,9 @@
 [526 - Beautiful Arrangement](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/526.py)<br/>
 [1079 - Letter Tile Possibilities](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/1079.py)<br/>
 
+### String
+[551 - Student Attendance Record I](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/551.py)<br/>
+
 ### Others
 [231 - Power of Two](https://github.com/ahlee-shawn/LeetCoder/blob/master/Others/231.py)<br/>
 [423 - Reconstruct Original Digits from English](https://github.com/ahlee-shawn/LeetCoder/blob/master/Others/423.py)<br/>
