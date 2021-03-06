@@ -28,6 +28,7 @@
 ### Linked List
 [21 - Merge Two Sorted Lists](https://github.com/ahlee-shawn/LeetCoder/blob/master/Linked%20List/21.py)<br/>
 [160 - Intersection of Two Linked Lists](https://github.com/ahlee-shawn/LeetCoder/blob/master/Linked%20List/160.py)<br/>
+[1669 - Merge In Between Linked Lists](https://github.com/ahlee-shawn/LeetCoder/blob/master/Linked%20List/1669.py)<br/>
 
 ### Dynamic Programming
 
