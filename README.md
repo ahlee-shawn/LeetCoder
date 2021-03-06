@@ -19,6 +19,7 @@
 [1379 - Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://github.com/ahlee-shawn/LeetCoder/blob/master/Tree/1379.py)<br/>
 
 ### Hash Table
+[1 - Two Sum](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/1.py)<br/>
 [575 - Distribute Candies](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/575.py)<br/>
 [645 - Set Mismatch](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/645.py)<br/>
 [961 - N-Repeated Element in Size 2N Array](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/961.py)<br/>
