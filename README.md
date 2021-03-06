@@ -37,6 +37,7 @@
 ### String
 [389 - Find the Difference](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/389.py)<br/>
 [551 - Student Attendance Record I](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/551.py)<br/>
+[1684 - Count the Number of Consistent Strings](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/1684.py)<br/>
 
 ### Others
 [231 - Power of Two](https://github.com/ahlee-shawn/LeetCoder/blob/master/Others/231.py)<br/>
