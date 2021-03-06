@@ -35,6 +35,7 @@
 [1079 - Letter Tile Possibilities](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/1079.py)<br/>
 
 ### String
+[389 - Find the Difference](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/389.py)<br/>
 [551 - Student Attendance Record I](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/551.py)<br/>
 
 ### Others
