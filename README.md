@@ -23,6 +23,7 @@
 [1 - Two Sum](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/1.py)<br/>
 [575 - Distribute Candies](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/575.py)<br/>
 [645 - Set Mismatch](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/645.py)<br/>
+[706 - Design HashMap](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/706.py)<br/>
 [961 - N-Repeated Element in Size 2N Array](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/961.py)<br/>
 [1640 - Check Array Formation Through Concatenation](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/1640.py)<br/>
 
