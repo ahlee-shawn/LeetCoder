@@ -4,6 +4,7 @@
 ## Problem List
 
 ### Array
+[75 - Sort Colors](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/75.py)<br/>
 [268 - Missing Number](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/268.py)<br/>
 [905 - Sort Array By Parity](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/905.py)<br/>
 [905 - Sort Array By Parity II](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/922.py)<br/>
