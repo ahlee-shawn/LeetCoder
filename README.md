@@ -17,6 +17,7 @@
 
 ### Tree
 [606 - Construct String from Binary Tree](https://github.com/ahlee-shawn/LeetCoder/blob/master/Tree/606.py)<br/>
+[623 - Add One Row to Tree](https://github.com/ahlee-shawn/LeetCoder/blob/master/Tree/623.py)<br/>
 [637 - Average of Levels in Binary Tree](https://github.com/ahlee-shawn/LeetCoder/blob/master/Tree/637.py)<br/>
 [1379 - Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://github.com/ahlee-shawn/LeetCoder/blob/master/Tree/1379.py)<br/>
 
