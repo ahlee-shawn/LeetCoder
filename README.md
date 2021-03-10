@@ -42,6 +42,7 @@
 [1079 - Letter Tile Possibilities](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/1079.py)<br/>
 
 ### String
+[12 - Integer to Roman](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/12.py)<br/>
 [389 - Find the Difference](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/389.py)<br/>
 [551 - Student Attendance Record I](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/551.py)<br/>
 [1332 - Remove Palindromic Subsequences](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/1332.py)<br/>
