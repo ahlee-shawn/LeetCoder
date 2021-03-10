@@ -11,15 +11,11 @@
 [1200 - Minimum Absolute Difference](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/1200.py)<br/>
 [1672 - Richest Customer Wealth](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/1672.py)<br/>
 
-### Stack
-[856 - Score Of Parentheses](https://github.com/ahlee-shawn/LeetCoder/blob/master/Stack/856.py)<br/>
-[946 - Validate Stack Sequences](https://github.com/ahlee-shawn/LeetCoder/blob/master/Stack/946.py)<br/>
+### DFS
+[526 - Beautiful Arrangement](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/526.py)<br/>
+[1079 - Letter Tile Possibilities](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/1079.py)<br/>
 
-### Tree
-[606 - Construct String from Binary Tree](https://github.com/ahlee-shawn/LeetCoder/blob/master/Tree/606.py)<br/>
-[623 - Add One Row to Tree](https://github.com/ahlee-shawn/LeetCoder/blob/master/Tree/623.py)<br/>
-[637 - Average of Levels in Binary Tree](https://github.com/ahlee-shawn/LeetCoder/blob/master/Tree/637.py)<br/>
-[1379 - Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://github.com/ahlee-shawn/LeetCoder/blob/master/Tree/1379.py)<br/>
+### Dynamic Programming
 
 ### Hash Table
 [1 - Two Sum](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/1.py)<br/>
@@ -35,11 +31,18 @@
 [237 - Delete Node in a Linked List](https://github.com/ahlee-shawn/LeetCoder/blob/master/Linked%20List/237.py)<br/>
 [1669 - Merge In Between Linked Lists](https://github.com/ahlee-shawn/LeetCoder/blob/master/Linked%20List/1669.py)<br/>
 
-### Dynamic Programming
+### Math
+[263 - Ugly Number](https://github.com/ahlee-shawn/LeetCoder/blob/master/Math/263.py)<br/>
 
-### DFS
-[526 - Beautiful Arrangement](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/526.py)<br/>
-[1079 - Letter Tile Possibilities](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/1079.py)<br/>
+### Others
+[231 - Power of Two](https://github.com/ahlee-shawn/LeetCoder/blob/master/Others/231.py)<br/>
+[423 - Reconstruct Original Digits from English](https://github.com/ahlee-shawn/LeetCoder/blob/master/Others/423.py)<br/>
+[441 - Arranging Coins](https://github.com/ahlee-shawn/LeetCoder/blob/master/Others/441.py)<br/>
+[581 - Shortest Unsorted Continuous Subarray](https://github.com/ahlee-shawn/LeetCoder/blob/master/Others/581.py)<br/>
+
+### Stack
+[856 - Score Of Parentheses](https://github.com/ahlee-shawn/LeetCoder/blob/master/Stack/856.py)<br/>
+[946 - Validate Stack Sequences](https://github.com/ahlee-shawn/LeetCoder/blob/master/Stack/946.py)<br/>
 
 ### String
 [12 - Integer to Roman](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/12.py)<br/>
@@ -48,8 +51,8 @@
 [1332 - Remove Palindromic Subsequences](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/1332.py)<br/>
 [1684 - Count the Number of Consistent Strings](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/1684.py)<br/>
 
-### Others
-[231 - Power of Two](https://github.com/ahlee-shawn/LeetCoder/blob/master/Others/231.py)<br/>
-[423 - Reconstruct Original Digits from English](https://github.com/ahlee-shawn/LeetCoder/blob/master/Others/423.py)<br/>
-[441 - Arranging Coins](https://github.com/ahlee-shawn/LeetCoder/blob/master/Others/441.py)<br/>
-[581 - Shortest Unsorted Continuous Subarray](https://github.com/ahlee-shawn/LeetCoder/blob/master/Others/581.py)<br/>
+### Tree
+[606 - Construct String from Binary Tree](https://github.com/ahlee-shawn/LeetCoder/blob/master/Tree/606.py)<br/>
+[623 - Add One Row to Tree](https://github.com/ahlee-shawn/LeetCoder/blob/master/Tree/623.py)<br/>
+[637 - Average of Levels in Binary Tree](https://github.com/ahlee-shawn/LeetCoder/blob/master/Tree/637.py)<br/>
+[1379 - Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://github.com/ahlee-shawn/LeetCoder/blob/master/Tree/1379.py)<br/>
