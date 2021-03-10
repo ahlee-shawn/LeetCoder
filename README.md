@@ -16,6 +16,7 @@
 [1079 - Letter Tile Possibilities](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/1079.py)<br/>
 
 ### Dynamic Programming
+[264 - Ugly Number II](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/264.py)<br/>
 
 ### Hash Table
 [1 - Two Sum](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/1.py)<br/>
