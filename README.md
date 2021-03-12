@@ -18,6 +18,7 @@
 ### Dynamic Programming
 [264 - Ugly Number II](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/264.py)<br/>
 [313 - Super Ugly Number](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/313.py)<br/>
+[322 - Coin Change](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/322.py)<br/>
 
 ### Hash Table
 [1 - Two Sum](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/1.py)<br/>
@@ -51,6 +52,7 @@
 [389 - Find the Difference](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/389.py)<br/>
 [551 - Student Attendance Record I](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/551.py)<br/>
 [1332 - Remove Palindromic Subsequences](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/1332.py)<br/>
+[1461 - Check If a String Contains All Binary Codes of Size K](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/1461.py)<br/>
 [1684 - Count the Number of Consistent Strings](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/1684.py)<br/>
 
 ### Tree
