@@ -34,6 +34,7 @@
 [160 - Intersection of Two Linked Lists](https://github.com/ahlee-shawn/LeetCoder/blob/master/Linked%20List/160.py)<br/>
 [237 - Delete Node in a Linked List](https://github.com/ahlee-shawn/LeetCoder/blob/master/Linked%20List/237.py)<br/>
 [1669 - Merge In Between Linked Lists](https://github.com/ahlee-shawn/LeetCoder/blob/master/Linked%20List/1669.py)<br/>
+[1721 - Swapping Nodes in a Linked List](https://github.com/ahlee-shawn/LeetCoder/blob/master/Linked%20List/1721.py)<br/>
 
 ### Math
 [263 - Ugly Number](https://github.com/ahlee-shawn/LeetCoder/blob/master/Math/263.py)<br/>
