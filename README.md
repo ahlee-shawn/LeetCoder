@@ -29,6 +29,7 @@
 [706 - Design HashMap](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/706.py)<br/>
 [771 - Jewels and Stones](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/771.py)<br/>
 [961 - N-Repeated Element in Size 2N Array](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/961.py)<br/>
+[1189 - Maximum Number of Balloons](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/1189.py)<br/>
 [1640 - Check Array Formation Through Concatenation](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/1640.py)<br/>
 
 ### Linked List
