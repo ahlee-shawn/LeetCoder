@@ -3,6 +3,7 @@ class Solution:
         table = [0]*(n+1)
         def dp(target):
             if table[target] != 0:
+                return table[target]
             if target == 1:
                 return 1
             elif target == 2:
