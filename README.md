@@ -27,6 +27,7 @@
 [313 - Super Ugly Number](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/313.py)<br/>
 [322 - Coin Change](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/322.py)<br/>
 [376 - Wiggle Subsequence](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/376.py)<br/>
+[647 - Palindromic Substrings](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/647.py)<br/>
 [823 - Binary Trees With Factors](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/823.py)<br/>
 
 ### Hash Table
