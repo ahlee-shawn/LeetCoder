@@ -10,6 +10,7 @@
 [905 - Sort Array By Parity II](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/922.py)<br/>
 [1200 - Minimum Absolute Difference](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/1200.py)<br/>
 [1672 - Richest Customer Wealth](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/1672.py)<br/>
+[1704 - Determine if String Halves Are Alike](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/1704.py)<br/>
 
 ### BFS
 [417 -  Pacific Atlantic Water Flow](https://github.com/ahlee-shawn/LeetCoder/blob/master/BFS/417.py)<br/>
