@@ -40,6 +40,7 @@
 [645 - Set Mismatch](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/645.py)<br/>
 [706 - Design HashMap](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/706.py)<br/>
 [771 - Jewels and Stones](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/771.py)<br/>
+[953 - Verifying an Alien Dictionary](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/953.py)<br/>
 [961 - N-Repeated Element in Size 2N Array](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/961.py)<br/>
 [966 - Vowel Spellchecker](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/966.py)<br/>
 [1189 - Maximum Number of Balloons](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/1189.py)<br/>
