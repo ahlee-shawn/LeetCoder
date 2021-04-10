@@ -50,5 +50,4 @@ class Solution:
                             table[child.val] = [current_node.val, level]
                         queue.append(child)
             level += 1
-        print(table)
         return table[x][1] == table[y][1] and table[x][0] != table[y][0]
