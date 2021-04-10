@@ -14,6 +14,7 @@
 
 ### BFS
 [17 -  Letter Combinations of a Phone Number](https://github.com/ahlee-shawn/LeetCoder/blob/master/BFS/17.py)<br/>
+[62 -  Unique Paths](https://github.com/ahlee-shawn/LeetCoder/blob/master/BFS/62.py)<br/>
 [329 -  Longest Increasing Path in a Matrix](https://github.com/ahlee-shawn/LeetCoder/blob/master/BFS/329.py)<br/>
 [417 -  Pacific Atlantic Water Flow](https://github.com/ahlee-shawn/LeetCoder/blob/master/BFS/417.py)<br/>
 [841 -  Keys and Rooms](https://github.com/ahlee-shawn/LeetCoder/blob/master/BFS/841.py)<br/>
