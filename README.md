@@ -76,6 +76,7 @@
 [12 - Integer to Roman](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/12.py)<br/>
 [389 - Find the Difference](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/389.py)<br/>
 [551 - Student Attendance Record I](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/551.py)<br/>
+[824 - Goat Latin](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/824.py)<br/>
 [916 - Word Subsets](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/916.py)<br/>
 [1332 - Remove Palindromic Subsequences](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/1332.py)<br/>
 [1461 - Check If a String Contains All Binary Codes of Size K](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/1461.py)<br/>
@@ -87,6 +88,7 @@
 [606 - Construct String from Binary Tree](https://github.com/ahlee-shawn/LeetCoder/blob/master/Tree/606.py)<br/>
 [623 - Add One Row to Tree](https://github.com/ahlee-shawn/LeetCoder/blob/master/Tree/623.py)<br/>
 [637 - Average of Levels in Binary Tree](https://github.com/ahlee-shawn/LeetCoder/blob/master/Tree/637.py)<br/>
+[938 - Range Sum of BST](https://github.com/ahlee-shawn/LeetCoder/blob/master/Tree/938.py)<br/>
 [965 - Univalued Binary Tree](https://github.com/ahlee-shawn/LeetCoder/blob/master/Tree/965.py)<br/>
 [993 - Cousins in Binary Tree](https://github.com/ahlee-shawn/LeetCoder/blob/master/Tree/993.py)<br/>
 [1379 - Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://github.com/ahlee-shawn/LeetCoder/blob/master/Tree/1379.py)<br/>
