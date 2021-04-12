@@ -1,12 +1,14 @@
 class Solution:
+    def dfs(self, i, avail_num):
+        if i == 1:
+            return 1
+        cur_prem = 0
+        for num in avail_num:
+            if num % i == 0 or i % num == 0:
+                new_avail_num = avail_num.copy()
+                new_avail_num.remove(num)
+                cur_prem += self.dfs(i-1, new_avail_num)
+        return cur_prem
+        
     def countArrangement(self, n: int) -> int:
-        def dfs(bm, pl):
-            if pl == 0: return 1
-                
-            S = 0
-            for i in range(n):
-                if not bm&1<<i and ((i+1)%pl == 0 or pl%(i+1) == 0):
-                    S += dfs(bm^1<<i, pl - 1)
-            return S
-                
-        return dfs(0, n)
+        return self.dfs(n, set(range(1, n+1)))
