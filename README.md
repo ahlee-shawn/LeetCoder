@@ -61,6 +61,7 @@
 [263 - Ugly Number](https://github.com/ahlee-shawn/LeetCoder/blob/master/Math/263.py)<br/>
 [478 - Generate Random Point in a Circle](https://github.com/ahlee-shawn/LeetCoder/blob/master/Math/478.py)<br/>
 [1551 - Minimum Operations to Make Array Equal](https://github.com/ahlee-shawn/LeetCoder/blob/master/Math/1551.py)<br/>
+[1688 - Count of Matches in Tournament](https://github.com/ahlee-shawn/LeetCoder/blob/master/Math/1688.py)<br/>
 
 ### Others
 [231 - Power of Two](https://github.com/ahlee-shawn/LeetCoder/blob/master/Others/231.py)<br/>
