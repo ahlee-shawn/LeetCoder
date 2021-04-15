@@ -4,6 +4,7 @@
 ## Problem List
 
 ### Array
+[66 - Plus One](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/66.py)<br/>
 [75 - Sort Colors](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/75.py)<br/>
 [268 - Missing Number](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/268.py)<br/>
 [283 - Move Zeroes](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/283.py)<br/>
