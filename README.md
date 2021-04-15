@@ -65,6 +65,7 @@
 [1721 - Swapping Nodes in a Linked List](https://github.com/ahlee-shawn/LeetCoder/blob/master/Linked%20List/1721.py)<br/>
 
 ### Math
+[258 - Add Digits](https://github.com/ahlee-shawn/LeetCoder/blob/master/Math/258.py)<br/>
 [263 - Ugly Number](https://github.com/ahlee-shawn/LeetCoder/blob/master/Math/263.py)<br/>
 [478 - Generate Random Point in a Circle](https://github.com/ahlee-shawn/LeetCoder/blob/master/Math/478.py)<br/>
 [509 - Fibonacci Number](https://github.com/ahlee-shawn/LeetCoder/blob/master/Math/509.py)<br/>
