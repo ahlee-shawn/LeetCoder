@@ -20,6 +20,9 @@
 [417 -  Pacific Atlantic Water Flow](https://github.com/ahlee-shawn/LeetCoder/blob/master/BFS/417.py)<br/>
 [841 -  Keys and Rooms](https://github.com/ahlee-shawn/LeetCoder/blob/master/BFS/841.py)<br/>
 
+### Binary Search
+[374 - Guess Number Higher or Lower](https://github.com/ahlee-shawn/LeetCoder/blob/master/Binary%20Search/70.py)<br/>
+
 ### DFS
 [526 - Beautiful Arrangement](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/526.py)<br/>
 [784 - Letter Case Permutation](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/784.py)<br/>
