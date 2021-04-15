@@ -18,10 +18,11 @@
 [62 -  Unique Paths](https://github.com/ahlee-shawn/LeetCoder/blob/master/BFS/62.py)<br/>
 [329 -  Longest Increasing Path in a Matrix](https://github.com/ahlee-shawn/LeetCoder/blob/master/BFS/329.py)<br/>
 [417 -  Pacific Atlantic Water Flow](https://github.com/ahlee-shawn/LeetCoder/blob/master/BFS/417.py)<br/>
+[559 -  Maximum Depth of N-ary Tree](https://github.com/ahlee-shawn/LeetCoder/blob/master/BFS/559.py)<br/>
 [841 -  Keys and Rooms](https://github.com/ahlee-shawn/LeetCoder/blob/master/BFS/841.py)<br/>
 
 ### Binary Search
-[374 - Guess Number Higher or Lower](https://github.com/ahlee-shawn/LeetCoder/blob/master/Binary%20Search/70.py)<br/>
+[374 - Guess Number Higher or Lower](https://github.com/ahlee-shawn/LeetCoder/blob/master/Binary%20Search/374.py)<br/>
 
 ### DFS
 [526 - Beautiful Arrangement](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/526.py)<br/>
