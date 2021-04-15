@@ -60,6 +60,7 @@
 [234 - Palindrome Linked List](https://github.com/ahlee-shawn/LeetCoder/blob/master/Linked%20List/234.py)<br/>
 [237 - Delete Node in a Linked List](https://github.com/ahlee-shawn/LeetCoder/blob/master/Linked%20List/237.py)<br/>
 [876 - Middle of the Linked List](https://github.com/ahlee-shawn/LeetCoder/blob/master/Linked%20List/876.py)<br/>
+[1290 - Convert Binary Number in a Linked List to Integer](https://github.com/ahlee-shawn/LeetCoder/blob/master/Linked%20List/1290.py)<br/>
 [1669 - Merge In Between Linked Lists](https://github.com/ahlee-shawn/LeetCoder/blob/master/Linked%20List/1669.py)<br/>
 [1721 - Swapping Nodes in a Linked List](https://github.com/ahlee-shawn/LeetCoder/blob/master/Linked%20List/1721.py)<br/>
 
