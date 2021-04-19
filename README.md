@@ -34,6 +34,9 @@
 [784 - Letter Case Permutation](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/784.py)<br/>
 [1079 - Letter Tile Possibilities](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/1079.py)<br/>
 
+### Greedy
+[1710 - Maximum Units on a Truck](https://github.com/ahlee-shawn/LeetCoder/blob/master/Greedy/1710.py)<br/>
+
 ### Dynamic Programming
 [70 - Climbing Stairs](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/70.py)<br/>
 [121 - Best Time to Buy and Sell Stock](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/121.py)<br/>
