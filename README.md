@@ -88,6 +88,7 @@
 [1304 - Find N Unique Integers Sum up to Zero](https://github.com/ahlee-shawn/LeetCoder/blob/master/Others/1304.py)<br/>
 
 ### Stack
+[20 - Valid Parentheses](https://github.com/ahlee-shawn/LeetCoder/blob/master/Stack/20.py)<br/>
 [856 - Score Of Parentheses](https://github.com/ahlee-shawn/LeetCoder/blob/master/Stack/856.py)<br/>
 [946 - Validate Stack Sequences](https://github.com/ahlee-shawn/LeetCoder/blob/master/Stack/946.py)<br/>
 [1003 - Check If Word Is Valid After Substitutions](https://github.com/ahlee-shawn/LeetCoder/blob/master/Stack/1003.py)<br/>
