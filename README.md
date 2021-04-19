@@ -79,6 +79,7 @@
 [1688 - Count of Matches in Tournament](https://github.com/ahlee-shawn/LeetCoder/blob/master/Math/1688.py)<br/>
 
 ### Others
+[118 - Pascal's Triangle](https://github.com/ahlee-shawn/LeetCoder/blob/master/Others/118.py)<br/>
 [231 - Power of Two](https://github.com/ahlee-shawn/LeetCoder/blob/master/Others/231.py)<br/>
 [423 - Reconstruct Original Digits from English](https://github.com/ahlee-shawn/LeetCoder/blob/master/Others/423.py)<br/>
 [441 - Arranging Coins](https://github.com/ahlee-shawn/LeetCoder/blob/master/Others/441.py)<br/>
