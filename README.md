@@ -72,6 +72,7 @@
 ### Math
 [258 - Add Digits](https://github.com/ahlee-shawn/LeetCoder/blob/master/Math/258.py)<br/>
 [263 - Ugly Number](https://github.com/ahlee-shawn/LeetCoder/blob/master/Math/263.py)<br/>
+[326 - Power of Three](https://github.com/ahlee-shawn/LeetCoder/blob/master/Math/326.py)<br/>
 [412 - Fizz Buzz](https://github.com/ahlee-shawn/LeetCoder/blob/master/Math/412.py)<br/>
 [478 - Generate Random Point in a Circle](https://github.com/ahlee-shawn/LeetCoder/blob/master/Math/478.py)<br/>
 [509 - Fibonacci Number](https://github.com/ahlee-shawn/LeetCoder/blob/master/Math/509.py)<br/>
