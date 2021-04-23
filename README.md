@@ -30,6 +30,7 @@
 [374 - Guess Number Higher or Lower](https://github.com/ahlee-shawn/LeetCoder/blob/master/Binary%20Search/374.py)<br/>
 
 ### DFS
+[46 - Permutations](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/46.py)<br/>
 [526 - Beautiful Arrangement](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/526.py)<br/>
 [784 - Letter Case Permutation](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/784.py)<br/>
 [1079 - Letter Tile Possibilities](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/1079.py)<br/>
