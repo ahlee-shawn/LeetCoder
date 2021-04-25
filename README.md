@@ -6,6 +6,8 @@
 ### Array
 [66 - Plus One](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/66.py)<br/>
 [75 - Sort Colors](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/75.py)<br/>
+[118 - Pascal's Triangle](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/118.py)<br/>
+[119 - Pascal's Triangle II](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/119.py)<br/>
 [268 - Missing Number](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/268.py)<br/>
 [283 - Move Zeroes](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/283.py)<br/>
 [667 - Beautiful Arrangement II](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/667.py)<br/>
@@ -91,7 +93,6 @@
 [1688 - Count of Matches in Tournament](https://github.com/ahlee-shawn/LeetCoder/blob/master/Math/1688.py)<br/>
 
 ### Others
-[118 - Pascal's Triangle](https://github.com/ahlee-shawn/LeetCoder/blob/master/Others/118.py)<br/>
 [231 - Power of Two](https://github.com/ahlee-shawn/LeetCoder/blob/master/Others/231.py)<br/>
 [423 - Reconstruct Original Digits from English](https://github.com/ahlee-shawn/LeetCoder/blob/master/Others/423.py)<br/>
 [441 - Arranging Coins](https://github.com/ahlee-shawn/LeetCoder/blob/master/Others/441.py)<br/>
