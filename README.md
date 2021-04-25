@@ -126,6 +126,7 @@
 [226 - Invert Binary Tree](https://github.com/ahlee-shawn/LeetCoder/blob/master/Tree/226.py)<br/>
 [589 - N-ary Tree Preorder Traversal](https://github.com/ahlee-shawn/LeetCoder/blob/master/Tree/589.py)<br/>
 [606 - Construct String from Binary Tree](https://github.com/ahlee-shawn/LeetCoder/blob/master/Tree/606.py)<br/>
+[617 - Merge Two Binary Trees](https://github.com/ahlee-shawn/LeetCoder/blob/master/Tree/617.py)<br/>
 [623 - Add One Row to Tree](https://github.com/ahlee-shawn/LeetCoder/blob/master/Tree/623.py)<br/>
 [637 - Average of Levels in Binary Tree](https://github.com/ahlee-shawn/LeetCoder/blob/master/Tree/637.py)<br/>
 [938 - Range Sum of BST](https://github.com/ahlee-shawn/LeetCoder/blob/master/Tree/938.py)<br/>
