@@ -16,6 +16,7 @@
 [905 - Sort Array By Parity II](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/922.py)<br/>
 [1010 - Pairs of Songs With Total Durations Divisible by 60](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/1010.py)<br/>
 [1200 - Minimum Absolute Difference](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/1200.py)<br/>
+[1437 - Check If All 1's Are at Least Length K Places Away](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/1437.py)<br/>
 [1672 - Richest Customer Wealth](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/1672.py)<br/>
 [1704 - Determine if String Halves Are Alike](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/1704.py)<br/>
 
