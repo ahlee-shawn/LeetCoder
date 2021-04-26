@@ -91,6 +91,7 @@
 [412 - Fizz Buzz](https://github.com/ahlee-shawn/LeetCoder/blob/master/Math/412.py)<br/>
 [478 - Generate Random Point in a Circle](https://github.com/ahlee-shawn/LeetCoder/blob/master/Math/478.py)<br/>
 [509 - Fibonacci Number](https://github.com/ahlee-shawn/LeetCoder/blob/master/Math/509.py)<br/>
+[1175 - Prime Arrangements](https://github.com/ahlee-shawn/LeetCoder/blob/master/Math/1175.py)<br/>
 [1551 - Minimum Operations to Make Array Equal](https://github.com/ahlee-shawn/LeetCoder/blob/master/Math/1551.py)<br/>
 [1688 - Count of Matches in Tournament](https://github.com/ahlee-shawn/LeetCoder/blob/master/Math/1688.py)<br/>
 
