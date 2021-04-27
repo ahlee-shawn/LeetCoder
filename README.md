@@ -60,6 +60,7 @@
 [1 - Two Sum](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/1.py)<br/>
 [15 - 3Sum](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/15.py)<br/>
 [202 - Happy Number](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/202.py)<br/>
+[205 - Isomorphic Strings](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/205.py)<br/>
 [217 - Contains Duplicate](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/217.py)<br/>
 [554 - Brick Wall](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/554.py)<br/>
 [575 - Distribute Candies](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/575.py)<br/>
