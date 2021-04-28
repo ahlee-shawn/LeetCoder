@@ -111,6 +111,9 @@
 [581 - Shortest Unsorted Continuous Subarray](https://github.com/ahlee-shawn/LeetCoder/blob/master/Others/581.py)<br/>
 [1304 - Find N Unique Integers Sum up to Zero](https://github.com/ahlee-shawn/LeetCoder/blob/master/Others/1304.py)<br/>
 
+### Set
+[1496 - Path Crossing](https://github.com/ahlee-shawn/LeetCoder/blob/master/Set/1496.py)<br/>
+
 ### Stack
 [20 - Valid Parentheses](https://github.com/ahlee-shawn/LeetCoder/blob/master/Stack/20.py)<br/>
 [856 - Score Of Parentheses](https://github.com/ahlee-shawn/LeetCoder/blob/master/Stack/856.py)<br/>
