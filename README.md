@@ -42,12 +42,8 @@
 [797 - All Paths From Source to Target](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/797.py)<br/>
 [1079 - Letter Tile Possibilities](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/1079.py)<br/>
 
-### Greedy
-[605 - Can Place Flowers](https://github.com/ahlee-shawn/LeetCoder/blob/master/Greedy/605.py)<br/>
-[1518 - Water Bottles](https://github.com/ahlee-shawn/LeetCoder/blob/master/Greedy/1518.py)<br/>
-[1710 - Maximum Units on a Truck](https://github.com/ahlee-shawn/LeetCoder/blob/master/Greedy/1710.py)<br/>
-
 ### Dynamic Programming
+[53 - Maximum Subarray](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/53.py)<br/>
 [63 - Unique Paths II](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/63.py)<br/>
 [70 - Climbing Stairs](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/70.py)<br/>
 [121 - Best Time to Buy and Sell Stock](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/121.py)<br/>
@@ -57,6 +53,11 @@
 [376 - Wiggle Subsequence](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/376.py)<br/>
 [647 - Palindromic Substrings](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/647.py)<br/>
 [823 - Binary Trees With Factors](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/823.py)<br/>
+
+### Greedy
+[605 - Can Place Flowers](https://github.com/ahlee-shawn/LeetCoder/blob/master/Greedy/605.py)<br/>
+[1518 - Water Bottles](https://github.com/ahlee-shawn/LeetCoder/blob/master/Greedy/1518.py)<br/>
+[1710 - Maximum Units on a Truck](https://github.com/ahlee-shawn/LeetCoder/blob/master/Greedy/1710.py)<br/>
 
 ### Hash Table
 [1 - Two Sum](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/1.py)<br/>
