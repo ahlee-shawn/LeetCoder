@@ -32,6 +32,7 @@
 [841 -  Keys and Rooms](https://github.com/ahlee-shawn/LeetCoder/blob/master/BFS/841.py)<br/>
 
 ### Binary Search
+[34 - Find First and Last Position of Element in Sorted Array](https://github.com/ahlee-shawn/LeetCoder/blob/master/Binary%20Search/34.py)<br/>
 [374 - Guess Number Higher or Lower](https://github.com/ahlee-shawn/LeetCoder/blob/master/Binary%20Search/374.py)<br/>
 
 ### DFS
