@@ -174,6 +174,7 @@
 [208 - Implement Trie (Prefix Tree)](https://github.com/ahlee-shawn/LeetCoder/blob/master/Trie/208.py)<br/>
 [211 - Design Add and Search Words Data Structure](https://github.com/ahlee-shawn/LeetCoder/blob/master/Trie/211.py)<br/>
 [745 - Prefix and Suffix Search](https://github.com/ahlee-shawn/LeetCoder/blob/master/Trie/745.py)<br/>
+[1268 - Search Suggestions System](https://github.com/ahlee-shawn/LeetCoder/blob/master/Trie/1268.py)<br/>
 
 ### Two Pointers
 [88 - Merge Sorted Array](https://github.com/ahlee-shawn/LeetCoder/blob/master/Two%20Pointers/88.py)<br/>
