@@ -1,3 +1,4 @@
+# Trie
 class Node:
     def __init__(self):
         self.isWord = False
@@ -59,3 +60,14 @@ class Solution:
         for word in products:
             trie.addWord(word)
         return trie.suggest(searchWord)
+
+# Binary Search
+class Solution:
+    def suggestedProducts(self, products: List[str], searchWord: str) -> List[List[str]]:
+        products.sort()
+        ans, prefix, i = [], '', 0
+        for char in searchWord:
+            prefix += char
+            i = bisect.bisect_left(products, prefix, lo=i, hi=len(products))
+            ans.append([w for w in products[i:i + 3] if w.startswith(prefix)])
+        return ans
