@@ -51,6 +51,7 @@
 [70 - Climbing Stairs](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/70.py)<br/>
 [121 - Best Time to Buy and Sell Stock](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/121.py)<br/>
 [264 - Ugly Number II](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/264.py)<br/>
+[300 - Longest Increasing Subsequence](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/300.py)<br/>
 [313 - Super Ugly Number](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/313.py)<br/>
 [322 - Coin Change](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/322.py)<br/>
 [376 - Wiggle Subsequence](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/376.py)<br/>
