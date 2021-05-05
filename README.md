@@ -64,6 +64,7 @@
 [210 - Course Schedule II](https://github.com/ahlee-shawn/LeetCoder/blob/master/Graph/210.py)<br/>
 
 ### Greedy
+[45 - Jump Game II](https://github.com/ahlee-shawn/LeetCoder/blob/master/Greedy/45.py)<br/>
 [605 - Can Place Flowers](https://github.com/ahlee-shawn/LeetCoder/blob/master/Greedy/605.py)<br/>
 [630 - Course Schedule III](https://github.com/ahlee-shawn/LeetCoder/blob/master/Greedy/630.py)<br/>
 [881 - Boats to Save People](https://github.com/ahlee-shawn/LeetCoder/blob/master/Greedy/881.py)<br/>
