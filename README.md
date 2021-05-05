@@ -46,6 +46,7 @@
 
 ### Dynamic Programming
 [53 - Maximum Subarray](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/53.py)<br/>
+[55 - Jump Game](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/55.py)<br/>
 [62 - Unique Paths](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/62.py)<br/>
 [63 - Unique Paths II](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/63.py)<br/>
 [70 - Climbing Stairs](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/70.py)<br/>
