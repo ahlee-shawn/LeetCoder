@@ -1,4 +1,6 @@
 # Trie
+# Time: O(max(m, len(searchWord))) to build the trie m is the total number of characters in products
+# Space: O(max(26n, len(searchWord))) n is the number of nodes
 class Node:
     def __init__(self):
         self.isWord = False
@@ -38,7 +40,6 @@ class Trie:
     def find3Words(self, currentRoot, wordStack):
         newSuggestions, remainingWords = self.dfs(currentRoot, wordStack, [], 3)
         return newSuggestions
-            
     
     def suggest(self, searchWord):
         ans, wordStack = [], []
