@@ -63,6 +63,7 @@
 [376 - Wiggle Subsequence](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/376.py)<br/>
 [647 - Palindromic Substrings](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/647.py)<br/>
 [823 - Binary Trees With Factors](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/823.py)<br/>
+[1143 - Longest Common Subsequence](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/1143.py)<br/>
 
 ### Graph
 [207 - Course Schedule](https://github.com/ahlee-shawn/LeetCoder/blob/master/Graph/207.py)<br/>
