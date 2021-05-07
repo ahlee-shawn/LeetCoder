@@ -62,6 +62,8 @@ class Solution:
         return trie.suggest(searchWord)
 
 # Binary Search
+# Time: O(nlogn+mlogn)
+# Space: O(n) -> sort
 class Solution:
     def suggestedProducts(self, products: List[str], searchWord: str) -> List[List[str]]:
         products.sort()
