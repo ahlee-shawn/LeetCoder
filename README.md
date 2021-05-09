@@ -23,6 +23,7 @@
 [1480 - Running Sum of 1d Array](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/1480.py)<br/>
 [1672 - Richest Customer Wealth](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/1672.py)<br/>
 [1704 - Determine if String Halves Are Alike](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/1704.py)<br/>
+[1833 - Maximum Ice Cream Bars](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/1833.py)<br/>
 
 ### BFS
 [17 -  Letter Combinations of a Phone Number](https://github.com/ahlee-shawn/LeetCoder/blob/master/BFS/17.py)<br/>
