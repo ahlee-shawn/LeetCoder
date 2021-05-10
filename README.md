@@ -143,6 +143,7 @@
 [1304 - Find N Unique Integers Sum up to Zero](https://github.com/ahlee-shawn/LeetCoder/blob/master/Others/1304.py)<br/>
 
 ### Set
+[204 - Count Primes](https://github.com/ahlee-shawn/LeetCoder/blob/master/Set/204.py)<br/>
 [1496 - Path Crossing](https://github.com/ahlee-shawn/LeetCoder/blob/master/Set/1496.py)<br/>
 
 ### Stack
