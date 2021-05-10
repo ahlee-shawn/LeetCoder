@@ -160,6 +160,7 @@
 [344 - Reverse String](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/344.py)<br/>
 [387 - First Unique Character in a String](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/387.py)<br/>
 [389 - Find the Difference](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/389.py)<br/>
+[438 - Find All Anagrams in a String](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/438.py)<br/>
 [551 - Student Attendance Record I](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/551.py)<br/>
 [824 - Goat Latin](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/824.py)<br/>
 [916 - Word Subsets](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/916.py)<br/>
