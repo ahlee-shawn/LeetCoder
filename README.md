@@ -108,6 +108,7 @@
 [1640 - Check Array Formation Through Concatenation](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/1640.py)<br/>
 
 ### Heap
+[347 - Top K Frequent Elements](https://github.com/ahlee-shawn/LeetCoder/blob/master/Heap/347.py)<br/>
 [1642 - Furthest Building You Can Reach](https://github.com/ahlee-shawn/LeetCoder/blob/master/Heap/1642.py)<br/>
 
 ### Linked List
