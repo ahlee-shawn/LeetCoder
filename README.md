@@ -64,6 +64,7 @@
 [213 - House Robber II](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/213.py)<br/>
 [264 - Ugly Number II](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/264.py)<br/>
 [300 - Longest Increasing Subsequence](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/300.py)<br/>
+[304 - Range Sum Query 2D - Immutable](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/304.py)<br/>
 [313 - Super Ugly Number](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/313.py)<br/>
 [322 - Coin Change](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/322.py)<br/>
 [334 - Increasing Triplet Subsequence](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/334.py)<br/>
