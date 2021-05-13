@@ -55,6 +55,7 @@
 [1079 - Letter Tile Possibilities](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/1079.py)<br/>
 
 ### Dynamic Programming
+[5 - Longest Palindromic Substring](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/5.py)<br/>
 [53 - Maximum Subarray](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/53.py)<br/>
 [55 - Jump Game](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/55.py)<br/>
 [62 - Unique Paths](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/62.py)<br/>
