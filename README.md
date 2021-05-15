@@ -144,6 +144,7 @@
 [1688 - Count of Matches in Tournament](https://github.com/ahlee-shawn/LeetCoder/blob/master/Math/1688.py)<br/>
 
 ### Others
+[65 - Valid Number](https://github.com/ahlee-shawn/LeetCoder/blob/master/Others/65.py)<br/>
 [136 - Single Number](https://github.com/ahlee-shawn/LeetCoder/blob/master/Others/136.py)<br/>
 [231 - Power of Two](https://github.com/ahlee-shawn/LeetCoder/blob/master/Others/231.py)<br/>
 [423 - Reconstruct Original Digits from English](https://github.com/ahlee-shawn/LeetCoder/blob/master/Others/423.py)<br/>
