@@ -33,6 +33,7 @@
 [103 -  Binary Tree Zigzag Level Order Traversal](https://github.com/ahlee-shawn/LeetCoder/blob/master/BFS/103.py)<br/>
 [104 -  Maximum Depth of Binary Tree](https://github.com/ahlee-shawn/LeetCoder/blob/master/BFS/104.py)<br/>
 [107 -  Binary Tree Level Order Traversal II](https://github.com/ahlee-shawn/LeetCoder/blob/master/BFS/107.py)<br/>
+[111 -  Minimum Depth of Binary Tree](https://github.com/ahlee-shawn/LeetCoder/blob/master/BFS/111.py)<br/>
 [329 -  Longest Increasing Path in a Matrix](https://github.com/ahlee-shawn/LeetCoder/blob/master/BFS/329.py)<br/>
 [417 -  Pacific Atlantic Water Flow](https://github.com/ahlee-shawn/LeetCoder/blob/master/BFS/417.py)<br/>
 [547 -  Number of Provinces](https://github.com/ahlee-shawn/LeetCoder/blob/master/BFS/547.py)<br/>
