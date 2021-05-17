@@ -79,6 +79,7 @@
 [583 - Delete Operation for Two Strings](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/583.py)<br/>
 [647 - Palindromic Substrings](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/647.py)<br/>
 [823 - Binary Trees With Factors](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/823.py)<br/>
+[1048 - Longest String Chain](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/1048.py)<br/>
 [1143 - Longest Common Subsequence](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/1143.py)<br/>
 
 ### Graph
