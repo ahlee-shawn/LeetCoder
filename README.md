@@ -56,6 +56,7 @@
 [968 - Binary Tree Cameras](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/968.py)<br/>
 [979 - Distribute Coins in Binary Tree](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/979.py)<br/>
 [1079 - Letter Tile Possibilities](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/1079.py)<br/>
+[1457 - Pseudo-Palindromic Paths in a Binary Tree](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/1457.py)<br/>
 
 ### Dynamic Programming
 [5 - Longest Palindromic Substring](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/5.py)<br/>
