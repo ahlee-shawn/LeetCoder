@@ -57,6 +57,7 @@
 [968 - Binary Tree Cameras](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/968.py)<br/>
 [979 - Distribute Coins in Binary Tree](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/979.py)<br/>
 [1079 - Letter Tile Possibilities](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/1079.py)<br/>
+[1219 - Path with Maximum Gold](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/1219.py)<br/>
 [1457 - Pseudo-Palindromic Paths in a Binary Tree](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/1457.py)<br/>
 
 ### Dynamic Programming
