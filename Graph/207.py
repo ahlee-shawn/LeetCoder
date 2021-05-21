@@ -1,6 +1,6 @@
 class Solution:
     def isCycle(self, current, visited, graph):
-        # if node v is being visited, then mark it as -1. If we find a vertex marked as -1 in DFS, then their is a ring
+        # if node v is being visited, then mark it as -1. If we find a vertex marked as -1 in DFS, then there is a ring
         if visited[current] == -1:
             return True
         if visited[current] == 1:
