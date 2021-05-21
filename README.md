@@ -114,6 +114,7 @@
 [706 - Design HashMap](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/706.py)<br/>
 [771 - Jewels and Stones](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/771.py)<br/>
 [804 - Unique Morse Code Words](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/804.py)<br/>
+[890 - Find and Replace Pattern](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/890.py)<br/>
 [953 - Verifying an Alien Dictionary](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/953.py)<br/>
 [961 - N-Repeated Element in Size 2N Array](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/961.py)<br/>
 [966 - Vowel Spellchecker](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/966.py)<br/>
