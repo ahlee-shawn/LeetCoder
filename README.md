@@ -70,6 +70,7 @@
 [62 - Unique Paths](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/62.py)<br/>
 [63 - Unique Paths II](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/63.py)<br/>
 [70 - Climbing Stairs](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/70.py)<br/>
+[120 - Triangle](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/120.py)<br/>
 [121 - Best Time to Buy and Sell Stock](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/121.py)<br/>
 [198 - House Robber](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/198.py)<br/>
 [213 - House Robber II](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/213.py)<br/>
