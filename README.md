@@ -83,6 +83,7 @@
 [334 - Increasing Triplet Subsequence](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/334.py)<br/>
 [337 - House Robber III](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/337.py)<br/>
 [376 - Wiggle Subsequence](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/376.py)<br/>
+[416 - Partition Equal Subset Sum](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/416.py)<br/>
 [583 - Delete Operation for Two Strings](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/583.py)<br/>
 [647 - Palindromic Substrings](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/647.py)<br/>
 [823 - Binary Trees With Factors](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/823.py)<br/>
