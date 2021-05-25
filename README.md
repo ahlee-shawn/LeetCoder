@@ -89,6 +89,7 @@
 [931 - Minimum Falling Path Sum](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/931.py)<br/>
 [1048 - Longest String Chain](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/1048.py)<br/>
 [1143 - Longest Common Subsequence](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/1143.py)<br/>
+[1339 - Maximum Product of Splitted Binary Tree](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/1339.py)<br/>
 
 ### Graph
 [207 - Course Schedule](https://github.com/ahlee-shawn/LeetCoder/blob/master/Graph/207.py)<br/>
