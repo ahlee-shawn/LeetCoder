@@ -10,7 +10,8 @@ class Solution:
         for num in nums:
             newElement = []
             for element in table:
-                newElement.append(element+num)
+                if element+num not in table:
+                    newElement.append(element+num)
             for element in newElement:
                 table.add(element)
             if target in table:
