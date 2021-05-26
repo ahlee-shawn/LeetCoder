@@ -173,6 +173,7 @@
 [461 - Hamming Distance](https://github.com/ahlee-shawn/LeetCoder/blob/master/Others/461.py)<br/>
 [581 - Shortest Unsorted Continuous Subarray](https://github.com/ahlee-shawn/LeetCoder/blob/master/Others/581.py)<br/>
 [1304 - Find N Unique Integers Sum up to Zero](https://github.com/ahlee-shawn/LeetCoder/blob/master/Others/1304.py)<br/>
+[1689 - Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/ahlee-shawn/LeetCoder/blob/master/Others/1689.py)<br/>
 
 ### Set
 [204 - Count Primes](https://github.com/ahlee-shawn/LeetCoder/blob/master/Set/204.py)<br/>
