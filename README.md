@@ -51,6 +51,7 @@
 [374 - Guess Number Higher or Lower](https://github.com/ahlee-shawn/LeetCoder/blob/master/Binary%20Search/374.py)<br/>
 
 ### DFS
+[22 - Generate Parentheses](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/22.py)<br/>
 [46 - Permutations](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/46.py)<br/>
 [47 - Permutations II](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/47.py)<br/>
 [51 - N-Queens](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/51.py)<br/>
