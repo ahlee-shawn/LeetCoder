@@ -112,6 +112,7 @@
 
 ### Hash Table
 [1 - Two Sum](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/1.py)<br/>
+[3 - Longest Substring Without Repeating Characters](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/3.py)<br/>
 [15 - 3Sum](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/15.py)<br/>
 [49 - Group Anagrams](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/49.py)<br/>
 [202 - Happy Number](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/202.py)<br/>
