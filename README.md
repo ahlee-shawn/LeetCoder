@@ -241,5 +241,6 @@
 
 ### Two Pointers
 [88 - Merge Sorted Array](https://github.com/ahlee-shawn/LeetCoder/blob/master/Two%20Pointers/88.py)<br/>
-[167 - Two Sum II - Input array is sorted](https://github.com/ahlee-shawn/LeetCoder/blob/master/Two%20Pointers/21.py)<br/>
+[167 - Two Sum II - Input array is sorted](https://github.com/ahlee-shawn/LeetCoder/blob/master/Two%20Pointers/167.py)<br/>
+[287 - Find the Duplicate Number](https://github.com/ahlee-shawn/LeetCoder/blob/master/Two%20Pointers/287.py)<br/>
 [443 - String Compression](https://github.com/ahlee-shawn/LeetCoder/blob/master/Two%20Pointers/443.py)<br/>
