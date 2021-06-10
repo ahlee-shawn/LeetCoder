@@ -6,6 +6,7 @@
 ### Array
 [26 - Remove Duplicates from Sorted Array](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/26.py)<br/>
 [48 - Rotate Image](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/48.py)<br/>
+[56 - Merge Intervals](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/56.py)<br/>
 [66 - Plus One](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/66.py)<br/>
 [75 - Sort Colors](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/75.py)<br/>
 [118 - Pascal's Triangle](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/118.py)<br/>
