@@ -109,6 +109,7 @@
 
 ### Greedy
 [45 - Jump Game II](https://github.com/ahlee-shawn/LeetCoder/blob/master/Greedy/45.py)<br/>
+[68 - Text Justification](https://github.com/ahlee-shawn/LeetCoder/blob/master/Greedy/68.py)<br/>
 [605 - Can Place Flowers](https://github.com/ahlee-shawn/LeetCoder/blob/master/Greedy/605.py)<br/>
 [621 - Task Scheduler](https://github.com/ahlee-shawn/LeetCoder/blob/master/Greedy/621.py)<br/>
 [630 - Course Schedule III](https://github.com/ahlee-shawn/LeetCoder/blob/master/Greedy/630.py)<br/>
