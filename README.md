@@ -96,8 +96,10 @@
 [337 - House Robber III](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/337.py)<br/>
 [376 - Wiggle Subsequence](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/376.py)<br/>
 [416 - Partition Equal Subset Sum](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/416.py)<br/>
+[473 - Matchsticks to Square](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/473.py)<br/>
 [583 - Delete Operation for Two Strings](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/583.py)<br/>
 [647 - Palindromic Substrings](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/647.py)<br/>
+[698 - Partition to K Equal Sum Subsets](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/698.py)<br/>
 [746 - Min Cost Climbing Stairs](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/746.py)<br/>
 [823 - Binary Trees With Factors](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/823.py)<br/>
 [931 - Minimum Falling Path Sum](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/931.py)<br/>
