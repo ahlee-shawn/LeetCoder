@@ -1,5 +1,25 @@
 # Dynamic Programming
 
+# DFS Revised
+class Solution:
+    def dfs(self, matchsticks, target, cur):
+        if cur == len(matchsticks):
+            return True
+        for i in range(4):
+            if target[i] >= matchsticks[cur]:
+                target[i] -= matchsticks[cur]
+                if self.dfs(matchsticks, target, cur+1):
+                    return True
+                target[i] += matchsticks[cur]
+        return False
+        
+    def makesquare(self, matchsticks: List[int]) -> bool:
+        matchsticksSum = sum(matchsticks)
+        if matchsticksSum % 4:
+            return False
+        target = [(matchsticksSum // 4) for _ in range(4)]
+        matchsticks.sort(reverse=True)
+        return self.dfs(matchsticks, target, 0)
 
 # DFS: Too Slow
 class Solution:
