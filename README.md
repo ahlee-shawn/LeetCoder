@@ -101,6 +101,7 @@
 [647 - Palindromic Substrings](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/647.py)<br/>
 [698 - Partition to K Equal Sum Subsets](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/698.py)<br/>
 [746 - Min Cost Climbing Stairs](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/746.py)<br/>
+[795 - Number of Subarrays with Bounded Maximum](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/795.py)<br/>
 [823 - Binary Trees With Factors](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/823.py)<br/>
 [931 - Minimum Falling Path Sum](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/931.py)<br/>
 [1048 - Longest String Chain](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/1048.py)<br/>
