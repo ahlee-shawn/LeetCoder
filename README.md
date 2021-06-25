@@ -5,6 +5,7 @@
 
 ### Array
 [26 - Remove Duplicates from Sorted Array](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/26.py)<br/>
+[41 - First Missing Positive](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/41.py)<br/>
 [48 - Rotate Image](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/48.py)<br/>
 [56 - Merge Intervals](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/56.py)<br/>
 [66 - Plus One](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/66.py)<br/>
