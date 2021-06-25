@@ -56,6 +56,7 @@
 [528 - Random Pick with Weight](https://github.com/ahlee-shawn/LeetCoder/blob/master/Binary%20Search/528.py)<br/>
 
 ### Design
+[146 - LRU Cache](https://github.com/ahlee-shawn/LeetCoder/blob/master/Design/146.py)<br/>
 [1348 - Tweet Counts Per Frequency](https://github.com/ahlee-shawn/LeetCoder/blob/master/Design/1348.py)<br/>
 
 ### DFS
