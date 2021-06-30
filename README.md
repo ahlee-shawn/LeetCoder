@@ -159,6 +159,7 @@
 ### Heap
 [347 - Top K Frequent Elements](https://github.com/ahlee-shawn/LeetCoder/blob/master/Heap/347.py)<br/>
 [451 - Sort Characters By Frequency](https://github.com/ahlee-shawn/LeetCoder/blob/master/Heap/451.py)<br/>
+[973 - K Closest Points to Origin](https://github.com/ahlee-shawn/LeetCoder/blob/master/Heap/973.py)<br/>
 [1642 - Furthest Building You Can Reach](https://github.com/ahlee-shawn/LeetCoder/blob/master/Heap/1642.py)<br/>
 
 ### Linked List
