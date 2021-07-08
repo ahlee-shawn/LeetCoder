@@ -190,6 +190,7 @@
 [478 - Generate Random Point in a Circle](https://github.com/ahlee-shawn/LeetCoder/blob/master/Math/478.py)<br/>
 [509 - Fibonacci Number](https://github.com/ahlee-shawn/LeetCoder/blob/master/Math/509.py)<br/>
 [633 - Sum of Square Numbers](https://github.com/ahlee-shawn/LeetCoder/blob/master/Math/633.py)<br/>
+[829 - Consecutive Numbers Sum](https://github.com/ahlee-shawn/LeetCoder/blob/master/Math/829.py)<br/>
 [1041 - Robot Bounded In Circle](https://github.com/ahlee-shawn/LeetCoder/blob/master/Math/1041.py)<br/>
 [1175 - Prime Arrangements](https://github.com/ahlee-shawn/LeetCoder/blob/master/Math/1175.py)<br/>
 [1551 - Minimum Operations to Make Array Equal](https://github.com/ahlee-shawn/LeetCoder/blob/master/Math/1551.py)<br/>
