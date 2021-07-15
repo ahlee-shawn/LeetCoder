@@ -185,6 +185,7 @@
 [1721 - Swapping Nodes in a Linked List](https://github.com/ahlee-shawn/LeetCoder/blob/master/Linked%20List/1721.py)<br/>
 
 ### Math
+[67 - Add Binary](https://github.com/ahlee-shawn/LeetCoder/blob/master/Math/67.py)<br/>
 [258 - Add Digits](https://github.com/ahlee-shawn/LeetCoder/blob/master/Math/258.py)<br/>
 [263 - Ugly Number](https://github.com/ahlee-shawn/LeetCoder/blob/master/Math/263.py)<br/>
 [326 - Power of Three](https://github.com/ahlee-shawn/LeetCoder/blob/master/Math/326.py)<br/>
