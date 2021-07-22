@@ -219,6 +219,7 @@
 [1689 - Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/ahlee-shawn/LeetCoder/blob/master/Others/1689.py)<br/>
 
 ### Set
+[36 - Valid Sudoku](https://github.com/ahlee-shawn/LeetCoder/blob/master/Set/36.py)<br/>
 [204 - Count Primes](https://github.com/ahlee-shawn/LeetCoder/blob/master/Set/204.py)<br/>
 [1496 - Path Crossing](https://github.com/ahlee-shawn/LeetCoder/blob/master/Set/1496.py)<br/>
 
