@@ -165,6 +165,7 @@
 [961 - N-Repeated Element in Size 2N Array](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/961.py)<br/>
 [966 - Vowel Spellchecker](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/966.py)<br/>
 [970 - Powerful Integers](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/970.py)<br/>
+[1086 - High Five](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/1086.py)<br/>
 [1189 - Maximum Number of Balloons](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/1189.py)<br/>
 [1640 - Check Array Formation Through Concatenation](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/1640.py)<br/>
 
