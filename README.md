@@ -102,6 +102,7 @@
 [91 - Decode Ways](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/91.py)<br/>
 [120 - Triangle](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/120.py)<br/>
 [121 - Best Time to Buy and Sell Stock](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/121.py)<br/>
+[139 - Word Break](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/139.py)<br/>
 [198 - House Robber](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/198.py)<br/>
 [213 - House Robber II](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/213.py)<br/>
 [264 - Ugly Number II](https://github.com/ahlee-shawn/LeetCoder/blob/master/Dynamic%20Programming/264.py)<br/>
