@@ -68,6 +68,7 @@
 [146 - LRU Cache](https://github.com/ahlee-shawn/LeetCoder/blob/master/Design/146.py)<br/>
 [1348 - Tweet Counts Per Frequency](https://github.com/ahlee-shawn/LeetCoder/blob/master/Design/1348.py)<br/>
 [1396 - Design Underground System](https://github.com/ahlee-shawn/LeetCoder/blob/master/Design/1396.py)<br/>
+[1603 - Design Parking System](https://github.com/ahlee-shawn/LeetCoder/blob/master/Design/1603.py)<br/>
 
 ### DFS
 [22 - Generate Parentheses](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/22.py)<br/>
