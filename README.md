@@ -22,6 +22,7 @@
 [485 - Max Consecutive Ones](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/485.py)<br/>
 [665 - Non-decreasing Array](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/665.py)<br/>
 [667 - Beautiful Arrangement II](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/667.py)<br/>
+[724 - Find Pivot Index](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/724.py)<br/>
 [830 - Positions of Large Groups](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/830.py)<br/>
 [905 - Sort Array By Parity](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/905.py)<br/>
 [922 - Sort Array By Parity II](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/922.py)<br/>
