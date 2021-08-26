@@ -271,6 +271,7 @@
 [226 - Invert Binary Tree](https://github.com/ahlee-shawn/LeetCoder/blob/master/Tree/226.py)<br/>
 [257 - Binary Tree Paths](https://github.com/ahlee-shawn/LeetCoder/blob/master/Tree/257.py)<br/>
 [307 - Range Sum Query - Mutable](https://github.com/ahlee-shawn/LeetCoder/blob/master/Tree/307.py)<br/>
+[543 - Diameter of Binary Tree](https://github.com/ahlee-shawn/LeetCoder/blob/master/Tree/543.py)<br/>
 [572 - Subtree of Another Tree](https://github.com/ahlee-shawn/LeetCoder/blob/master/Tree/572.py)<br/>
 [589 - N-ary Tree Preorder Traversal](https://github.com/ahlee-shawn/LeetCoder/blob/master/Tree/589.py)<br/>
 [606 - Construct String from Binary Tree](https://github.com/ahlee-shawn/LeetCoder/blob/master/Tree/606.py)<br/>
