@@ -18,6 +18,7 @@
 [283 - Move Zeroes](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/283.py)<br/>
 [289 - Game of Life](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/289.py)<br/>
 [303 - Range Sum Query - Immutable](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/303.py)<br/>
+[361 - Bomb Enemy](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/361.py)<br/>
 [363 - Max Sum of Rectangle No Larger Than K](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/363.py)<br/>
 [485 - Max Consecutive Ones](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/485.py)<br/>
 [665 - Non-decreasing Array](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/665.py)<br/>
