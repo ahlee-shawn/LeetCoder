@@ -52,6 +52,7 @@
 [417 -  Pacific Atlantic Water Flow](https://github.com/ahlee-shawn/LeetCoder/blob/master/BFS/417.py)<br/>
 [547 -  Number of Provinces](https://github.com/ahlee-shawn/LeetCoder/blob/master/BFS/547.py)<br/>
 [559 -  Maximum Depth of N-ary Tree](https://github.com/ahlee-shawn/LeetCoder/blob/master/BFS/559.py)<br/>
+[690 -  Employee Importance](https://github.com/ahlee-shawn/LeetCoder/blob/master/BFS/690.py)<br/>
 [695 -  Max Area of Island](https://github.com/ahlee-shawn/LeetCoder/blob/master/BFS/695.py)<br/>
 [752 -  Open the Lock](https://github.com/ahlee-shawn/LeetCoder/blob/master/BFS/752.py)<br/>
 [841 -  Keys and Rooms](https://github.com/ahlee-shawn/LeetCoder/blob/master/BFS/841.py)<br/>
