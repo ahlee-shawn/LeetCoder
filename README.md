@@ -241,6 +241,7 @@
 
 ### Stack
 [20 - Valid Parentheses](https://github.com/ahlee-shawn/LeetCoder/blob/master/Stack/20.py)<br/>
+[71 - Simplify Path](https://github.com/ahlee-shawn/LeetCoder/blob/master/Stack/71.py)<br/>
 [150 - Evaluate Reverse Polish Notation](https://github.com/ahlee-shawn/LeetCoder/blob/master/Stack/150.py)<br/>
 [856 - Score Of Parentheses](https://github.com/ahlee-shawn/LeetCoder/blob/master/Stack/856.py)<br/>
 [946 - Validate Stack Sequences](https://github.com/ahlee-shawn/LeetCoder/blob/master/Stack/946.py)<br/>
