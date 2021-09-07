@@ -142,6 +142,7 @@
 [45 - Jump Game II](https://github.com/ahlee-shawn/LeetCoder/blob/master/Greedy/45.py)<br/>
 [68 - Text Justification](https://github.com/ahlee-shawn/LeetCoder/blob/master/Greedy/68.py)<br/>
 [134 - Gas Station](https://github.com/ahlee-shawn/LeetCoder/blob/master/Greedy/134.py)<br/>
+[279 - Perfect Squares](https://github.com/ahlee-shawn/LeetCoder/blob/master/Greedy/279.py)<br/>
 [402 - Remove K Digits](https://github.com/ahlee-shawn/LeetCoder/blob/master/Greedy/402.py)<br/>
 [605 - Can Place Flowers](https://github.com/ahlee-shawn/LeetCoder/blob/master/Greedy/605.py)<br/>
 [621 - Task Scheduler](https://github.com/ahlee-shawn/LeetCoder/blob/master/Greedy/621.py)<br/>
