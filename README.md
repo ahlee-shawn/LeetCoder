@@ -154,6 +154,7 @@
 [1481 - Least Number of Unique Integers after K Removals](https://github.com/ahlee-shawn/LeetCoder/blob/master/Greedy/1481.py)<br/>
 [1518 - Water Bottles](https://github.com/ahlee-shawn/LeetCoder/blob/master/Greedy/1518.py)<br/>
 [1710 - Maximum Units on a Truck](https://github.com/ahlee-shawn/LeetCoder/blob/master/Greedy/1710.py)<br/>
+[1775 - Equal Sum Arrays With Minimum Number of Operations](https://github.com/ahlee-shawn/LeetCoder/blob/master/Greedy/1775.py)<br/>
 
 ### Hash Table
 [1 - Two Sum](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/1.py)<br/>
