@@ -244,6 +244,7 @@
 [20 - Valid Parentheses](https://github.com/ahlee-shawn/LeetCoder/blob/master/Stack/20.py)<br/>
 [71 - Simplify Path](https://github.com/ahlee-shawn/LeetCoder/blob/master/Stack/71.py)<br/>
 [150 - Evaluate Reverse Polish Notation](https://github.com/ahlee-shawn/LeetCoder/blob/master/Stack/150.py)<br/>
+[844 - Backspace String Compare](https://github.com/ahlee-shawn/LeetCoder/blob/master/Stack/844.py)<br/>
 [856 - Score Of Parentheses](https://github.com/ahlee-shawn/LeetCoder/blob/master/Stack/856.py)<br/>
 [946 - Validate Stack Sequences](https://github.com/ahlee-shawn/LeetCoder/blob/master/Stack/946.py)<br/>
 [1003 - Check If Word Is Valid After Substitutions](https://github.com/ahlee-shawn/LeetCoder/blob/master/Stack/1003.py)<br/>
