@@ -257,6 +257,7 @@
 ### String
 [12 - Integer to Roman](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/12.py)<br/>
 [14 - Longest Common Prefix](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/14.py)<br/>
+[38 - Count and Say](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/38.py)<br/>
 [125 - Valid Palindrome](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/125.py)<br/>
 [344 - Reverse String](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/344.py)<br/>
 [387 - First Unique Character in a String](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/387.py)<br/>
