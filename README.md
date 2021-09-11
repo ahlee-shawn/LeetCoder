@@ -262,6 +262,7 @@
 [344 - Reverse String](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/344.py)<br/>
 [387 - First Unique Character in a String](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/387.py)<br/>
 [389 - Find the Difference](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/389.py)<br/>
+[394 - Decode String](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/394.py)<br/>
 [438 - Find All Anagrams in a String](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/438.py)<br/>
 [551 - Student Attendance Record I](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/551.py)<br/>
 [567 - Permutation in String](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/567.py)<br/>
