@@ -260,6 +260,7 @@
 [38 - Count and Say](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/38.py)<br/>
 [125 - Valid Palindrome](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/125.py)<br/>
 [242 - Valid Anagram](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/242.py)<br/>
+[299 - Bulls and Cows](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/299.py)<br/>
 [344 - Reverse String](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/344.py)<br/>
 [387 - First Unique Character in a String](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/387.py)<br/>
 [389 - Find the Difference](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/389.py)<br/>
