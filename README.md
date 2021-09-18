@@ -271,6 +271,7 @@
 [709 - To Lower Case](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/709.py)<br/>
 [824 - Goat Latin](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/824.py)<br/>
 [916 - Word Subsets](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/916.py)<br/>
+[929 - Unique Email Addresses](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/929.py)<br/>
 [1332 - Remove Palindromic Subsequences](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/1332.py)<br/>
 [1422 - Maximum Score After Splitting a String](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/1422.py)<br/>
 [1461 - Check If a String Contains All Binary Codes of Size K](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/1461.py)<br/>
