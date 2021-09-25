@@ -276,6 +276,7 @@
 [1332 - Remove Palindromic Subsequences](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/1332.py)<br/>
 [1422 - Maximum Score After Splitting a String](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/1422.py)<br/>
 [1461 - Check If a String Contains All Binary Codes of Size K](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/1461.py)<br/>
+[1472 - Design Browser History](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/1472.py)<br/>
 [1684 - Count the Number of Consistent Strings](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/1684.py)<br/>
 [1790 - Check if One String Swap Can Make Strings Equal](https://github.com/ahlee-shawn/LeetCoder/blob/master/String/1790.py)<br/>
 
