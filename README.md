@@ -33,6 +33,7 @@
 [1437 - Check If All 1's Are at Least Length K Places Away](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/1437.py)<br/>
 [1465 - Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/1465.py)<br/>
 [1480 - Running Sum of 1d Array](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/1480.py)<br/>
+[1512 - Number of Good Pairs](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/1512.py)<br/>
 [1629 - Slowest Key](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/1629.py)<br/>
 [1672 - Richest Customer Wealth](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/1672.py)<br/>
 [1704 - Determine if String Halves Are Alike](https://github.com/ahlee-shawn/LeetCoder/blob/master/Array/1704.py)<br/>
