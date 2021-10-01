@@ -89,6 +89,7 @@
 [124 - Binary Tree Maximum Path Sum](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/124.py)<br/>
 [129 - Sum Root to Leaf Numbers](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/129.py)<br/>
 [236 - Lowest Common Ancestor of a Binary Tree](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/236.py)<br/>
+[298 - Binary Tree Longest Consecutive Sequence](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/298.py)<br/>
 [301 - Remove Invalid Parentheses](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/301.py)<br/>
 [526 - Beautiful Arrangement](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/526.py)<br/>
 [783 - Minimum Distance Between BST Nodes](https://github.com/ahlee-shawn/LeetCoder/blob/master/DFS/783.py)<br/>
