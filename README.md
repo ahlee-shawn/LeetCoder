@@ -167,6 +167,7 @@
 [202 - Happy Number](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/202.py)<br/>
 [205 - Isomorphic Strings](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/205.py)<br/>
 [217 - Contains Duplicate](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/217.py)<br/>
+[249 - Group Shifted Strings](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/249.py)<br/>
 [290 - Word Pattern](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/290.py)<br/>
 [554 - Brick Wall](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/554.py)<br/>
 [560 - Subarray Sum Equals K](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/560.py)<br/>
