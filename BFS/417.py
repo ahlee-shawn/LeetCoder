@@ -63,3 +63,55 @@ class Solution:
                 if pacific_table[i][j] and atlantic_table[i][j]:
                     ans.append([i,j])
         return ans
+
+class Solution:
+    def initialize(self, isPacific, m, n):
+        queue = deque()
+        table = set()
+        rowIndex = 0 if isPacific else m-1
+        colIndex = 0 if isPacific else n-1
+        nextLevel = []
+        for i in range(n):
+            nextLevel.append([rowIndex, i])
+            table.add((rowIndex, i))
+        for i in range(0+isPacific, m-1+isPacific):
+            nextLevel.append([i, colIndex])
+            table.add((i, colIndex))
+        queue.append(nextLevel)
+        return queue, table
+    
+    def bfs(self, heights, isPacific):
+        m, n = len(heights), len(heights[0])
+        queue, table = self.initialize(isPacific, m, n)
+        while queue:
+            currentLevel = queue.popleft()
+            nextLevel = []
+            for (i, j) in currentLevel:
+                currentHeight = heights[i][j]
+                # Up
+                if i > 0 and heights[i-1][j] >= currentHeight and (i-1, j) not in table:
+                    nextLevel.append([i-1, j])
+                    table.add((i-1, j))
+                # Down
+                if i < m-1 and heights[i+1][j] >= currentHeight and (i+1, j) not in table:
+                    nextLevel.append([i+1, j])
+                    table.add((i+1, j))
+                # Left
+                if j > 0 and heights[i][j-1] >= currentHeight and (i, j-1) not in table:
+                    nextLevel.append([i, j-1])
+                    table.add((i, j-1))
+                # Right
+                if j < n-1 and heights[i][j+1] >= currentHeight and (i, j+1) not in table:
+                    nextLevel.append([i, j+1])
+                    table.add((i, j+1))
+            if nextLevel:
+                queue.append(nextLevel)
+        return table
+        
+    def pacificAtlantic(self, heights: List[List[int]]) -> List[List[int]]:
+        ans = []
+        pacific = self.bfs(heights, True)
+        atlantic = self.bfs(heights, False)
+        for element in atlantic.intersection(pacific):
+            ans.append([element[0], element[1]])
+        return ans
