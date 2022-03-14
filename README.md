@@ -169,6 +169,7 @@
 [217 - Contains Duplicate](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/217.py)<br/>
 [249 - Group Shifted Strings](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/249.py)<br/>
 [290 - Word Pattern](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/290.py)<br/>
+[525 - Contiguous Array](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/525.py)<br/>
 [554 - Brick Wall](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/554.py)<br/>
 [560 - Subarray Sum Equals K](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/560.py)<br/>
 [575 - Distribute Candies](https://github.com/ahlee-shawn/LeetCoder/blob/master/Hash%20Table/575.py)<br/>
